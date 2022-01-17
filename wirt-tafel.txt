@@ -1,0 +1,20 @@
+Also, wie soll das ganze nachher ausschauen.
+
+Seite.
+
+(UI) Wähle eine Börse.
+
+Liste mit 1000 Aktien. (API: marketstack.com)
+
+(API: marketstack.com) Verlauf herunterladen.
+
+(berechnen) Wert berechnen / filtern.
+
+(UI) Anzeigen.
+
+Bemerkungen:
+
+Aus Beobachtungen sehe ich, dass Tabellenrechner sehr viel günstiger sind als API. Darum -> Google Sheet.
+Kein JavaScript.
+
+
